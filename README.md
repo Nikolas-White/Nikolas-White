@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🪿 Nikolas White
+
+Undergraduate computer science student at Lassonde School of Engineering seeking to get further involved in the AI/ML industry.
 
 <!--
 **Nikolas-White/Nikolas-White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
